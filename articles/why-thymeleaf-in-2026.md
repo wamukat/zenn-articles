@@ -3,7 +3,7 @@ title: "「そのSPA、本当に必要ですか？」— Thymeleafとhtmxで実�
 emoji: "🍃"
 type: "tech"
 topics: ["java", "springboot", "thymeleaf", "htmx", "mpa"]
-published: false
+published: true
 ---
 
 ## 1. SPAが適している世界と、そうでない世界
