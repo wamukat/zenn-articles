@@ -2,7 +2,7 @@
 title: "「そのSPA、本当に必要ですか？」— Thymeleafとhtmxで実現するモダンMPA開発"
 emoji: "🍃"
 type: "tech"
-topics: ["java", "springboot", "thymeleaf", "htmx", "mpa"]
+topics: ["java", "spring", "Thymeleaf", "htmx", "Storybook"]
 published: true
 ---
 
